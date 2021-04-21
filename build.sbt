@@ -2,7 +2,7 @@ name := "deequ-example"
 
 version := "0.0.1"
 
-scalaVersion := "2.11.12"
+scalaVersion := "2.12.12"
 
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "3.0.1" % "provided"
 
